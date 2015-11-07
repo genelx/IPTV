@@ -2,6 +2,9 @@
 #EXTINF:-1, [COLOR gold] *contact me waseemgel@gmail.com*[/COLOR]
 #EXTM3U
 
+#EXTINF:-1,AR:ALJAZEERA
+http://portal.rapidiptv.com:8080/live/steph/steph/6288.ts
+
 #EXTINF:-1,Bein 1 AR
 rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
