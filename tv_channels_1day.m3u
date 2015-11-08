@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR gold] *contact me waseemgel@gmail.com*[/COLOR]
+#EXTINF:-1, [COLOR gold] contact me waseemgel@gmail.com [/COLOR]
 #EXTM3U
 
 #EXTINF:-1,AR:ALJAZEERA
@@ -341,50 +341,6 @@ http://178.33.88.130:888/udp/239.102.0.179:1234
 
 http://178.33.88.130:888/udp/239.102.0.180:1234
 
-#EXTINF:-1, ROTANA MUSIC
-
-http://178.33.88.130:888/udp/239.102.0.186:1234
-
-#EXTINF:-1, ROTANA CLASIC
-
-http://178.33.88.130:888/udp/239.102.0.187:1234
-
-#EXTINF:-1, ROTANA CINEMA
-
-http://178.33.88.130:888/udp/239.102.0.188:1234
-
-#EXTINF:-1, ROTANA KHALIDJAIA
-
-http://178.33.88.130:888/udp/239.102.0.189:1234
-
-#EXTINF:-1, CAIRO CINEMA
-
-http://178.33.88.130:888/udp/239.102.0.205:1234
-
-#EXTINF:-1, CAIRO DRAMA
-
-http://178.33.88.130:888/udp/239.102.0.206:1234
-
-#EXTINF:-1, CN ARABIC
-
-http://178.33.88.130:888/udp/239.102.0.207:1234
-
-#EXTINF:-1, NIL COMIDY
-
-http://178.33.88.130:888/udp/239.102.0.209:1234
-
-#EXTINF:-1, NIL DRAMA
-
-http://178.33.88.130:888/udp/239.102.0.210:1234
-
-#EXTINF:-1, NIL TV
-
-http://178.33.88.130:888/udp/239.102.0.211:1234
-
-#EXTINF:-1, NIL FAMILY
-
-http://178.33.88.130:888/udp/239.102.0.212:1234
-
 #EXTINF:-1, SOURIA DRAMA
 
 http://178.33.88.130:888/udp/239.102.0.213:1234
@@ -404,10 +360,6 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 #EXTINF:0,AAA FAMILY
 
 http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
-
-#EXTINF:0,ALJAZEERA AR
-
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 
 #EXTINF:-1,Russia Today HD
 http://176.51.91.40:1234/udp/233.7.70.216:5000
@@ -452,24 +404,10 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
 #EXTINF:-1,Kuwait Tv 2
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 
-#EXTINF:-1,MBC 1
-http://bit.ly/1OBdWvq
-
 #EXTINF:-1,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 
-
-#EXTINF:-1,MBC 3
-http://bit.ly/1RhvPgt
-#EXTINF:-1,MBC 3 - Link 2
-http://50.7.69.138:9080/hls/mbc3.m3u8
-#EXTINF:-1,MBC 3 - Link 3
-http://38.99.146.38:7777/MBC3_HD.m3u8?user=1441975005&session=e4724ee6a2741a3a32cf62bb836be4fee3e95ec1692f3cd5f86a8bd3cdd8c76c&v=520489549
-
-
-#EXTINF:-1,Mbc4 - Link 1
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,MBC 4 - Link 2
+#EXTINF:-1,MBC 4 
 http://50.7.69.138:9080/hls/mbc4.m3u8
 
 
@@ -480,12 +418,9 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 
-#EXTINF:-1,MBC DRAMA Link 1
+#EXTINF:-1,MBC DRAMA
 http://bit.ly/1OBheiu
-#EXTINF:-1,mbc drama Link 2
-http://216.66.42.85:7777/MBCDrama_HD.m3u8
-#EXTINF:-1,MBC DRAMA Link 3
-http://50.7.69.138:9080/hls/mbc-drama.m3u8
+
 
 #EXTINF:-1,MBC Bollywood
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
@@ -519,8 +454,7 @@ rtmp://almaareftv.com:1935/live/ playpath=11 swfUrl=http://www.almaareftv.com/nv
 #
 #EXTINF:-1,Al Sumaria (Iraq)
 http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
-#EXTINF:-1,قناة الديار
-http://188.247.93.26:1935/live/aldyar.stream_360p/playlist.m3u8
+
 #EXTINF:-1,Alqithara (VOD)
 http://upmv09-ntt-upmv.ustream.tv/0/1/58/58347/58347300/1_4365778_58347300.flv?e=1428405859&h=805ae55387a1382c3631c25a995eff49&tracking=8763ef_57_1_0_0
 #EXTINF:-1,Al yawm
@@ -540,33 +474,10 @@ rtmp://stream.truth-voice.net/FadyLive//FadyLive
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,Aljazeera En
 http://vizrthlsaje-i.akamaihd.net/hls/live/206524/AJEnglish/2873287_iOS/500.m3u8
-#EXTINF:-1,Alrayi
-mms://62.215.216.130/wmtencoder/alrai350.wmv
-#EXTINF:-1,ANB Live
-http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
-#EXTINF:-1,ANN News
-rtmp://ns8.indexforce.com/ann/ann
-#EXTINF:-1,Albadawiyah
-http://streamer11.elementssys.com:8080/albadawiyah-800-hdsx/index.m3u8
+
 #EXTINF:-1,Beladi TV
 rtmp://192.240.125.26:443/live?twijwZME0VwR0L3c7x2XKpAsnZYxH4f5 playpath=live_beladitv swfUrl=http://vaughnlive.tv/4282571532/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/beladitv?viewers=true&watermark=left&autoplay=true
-#EXTINF:-1, MCP
-rtmp://204.77.214.15/mogulus-stream-edge/mcpmusictv playpath=rtmp://212-94.livestream.com/affiliateStream/mcpmusictv/6c69766572657065617465723a72746d703a2f2f3231322d39342e6c69766573747265616d2e636f6d2f6d6f67756c75732f6d63706d7573696374762f6d7573696337616e696e3030353032303135303333312d3139343331È95f343436 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoplay=true&width=350&time=&jsEnabled=false&height=280 pageUrl=http://cdn.livestream.com/embed/McpMusicTV?layout=4&height=280&width=350&autoplay=true
-#EXTINF:-1,Syria
-http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
-#EXTINF:-1,Syria
-http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-#EXTINF:-1,Syria Aloula
-http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
-#EXTINF:-1,Syria Drama
-http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
-#EXTINF:-1,Syria Nour
-http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
 
-#EXTINF:-1,Sama Syria 
-http://sama-tv.net:1935/live/samatv/playlist.m3u8
-#EXTINF:-1,Syria drama
-http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
 #EXTINF:-1,Syria news 
 http://82.137.248.16:1935/Snews/SnewsLive1/gmswf.m3u8
 #EXTINF:-1,Syria TV 
@@ -594,17 +505,10 @@ rtmp://82.137.248.20/Talaqie/TalaqieLive2
 rtmp://82.137.248.16/Snews/SnewsLive1
 
 
-#EXTINF:-1,Alriadia_sportx[COLOR red]link_down[/COLOR]
-#
-
-
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 bbc arabic bbc
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-#EXTINF:-1,Dubai TV
-http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/BratuMarian.m3u8
 
 #EXTINF:-1,Edhaktv
 http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8
@@ -656,19 +560,6 @@ http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/BratuMaria
 #EXTINF:-1,Sky news arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 
-
-#EXTINF:-1,Tchad
-rtmp://tchad.streamakaci.com/tchad/tchad.stream
-#EXTINF:-1,Al Forat
-http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
-#EXTINF:-1,Al Gharbiya[COLOR red]link_down[/COLOR]
-http://46.165.208.230:1935/samarra/mystream/gmswf.m3u8
-#EXTINF:-1,AlDyar
-http://188.247.93.26:1935/live/aldyar.stream_360p/hassuni.m3u8
-#EXTINF:-1,Iraq music
-http://edge20.magictvbox.com/live/al_qithara_tv/index.m3u8
-#EXTINF:-1,Al-hurra Iraq 
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,Iqraatv
 http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
 
@@ -699,15 +590,6 @@ http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/HasBahCa.m3u8?DVR
 
 #EXTINF:-1,Al Maaref
 http://almaareftv.com:1935/live/1/HasBahCa.m3u8
-
-#EXTINF:-1,Dubai Racing
-http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8
-
-#EXTINF:-1,Dubai TV
-http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/HasBahCa.m3u8
-
-#EXTINF:-1,Funoon TV
-http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
 
 
 #EXTINF:-1,Noor Dubai TV
