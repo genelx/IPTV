@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title=“Arabic” ,Quran TV
+#EXTINF:-1 group-title=“Arabic”,Quran TV
 http://iptv.star7arab.com:80/live/DR.G/ash1ash2/99.ts
-#EXTINF:-1 group-title=“Arabic” ,Bein Sport 1 SD
+#EXTINF:-1 group-title=“Arabic”,Bein Sport 1 SD
 http://iptv.star7arab.com:80/live/DR.G/ash1ash2/50.ts
 #EXTINF:-1 group-title=“Arabic” ,Bein Sport 2 SD
 http://iptv.star7arab.com:80/live/DR.G/ash1ash2/51.ts
@@ -145,7 +145,7 @@ http://iptv.star7arab.com:80/live/DR.G/ash1ash2/18.ts
 http://iptv.star7arab.com:80/live/DR.G/ash1ash2/19.ts
 #EXTINF:-1 group-title="Spanish" ,ARTE HD
 http://iptv.star7arab.com:80/live/DR.G/ash1ash2/745.ts
-#EXTINF:-1 group-title="Spanish" ,animaux HD
+#EXTINF:-1 group-title=Spanish,animaux HD
 http://iptv.star7arab.com:80/live/DR.G/ash1ash2/746.ts
 #EXTINF:-1 group-title="English" ,Ushuaia HD
 http://iptv.star7arab.com:80/live/DR.G/ash1ash2/749.ts
