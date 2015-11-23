@@ -1,289 +1,242 @@
-#EXTINF:-1 group-title=Arabic,Quran TV
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/99.ts
-#EXTINF:-1 group-title=Arabic,Bein Sport 1 SD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/50.ts
-#EXTINF:-1 group-title=Arabic ,Bein Sport 2 SD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/51.ts
-#EXTINF:-1 group-title=Arabic ,Bein Sport 3 SD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/52.ts
-#EXTINF:-1 group-title=Arabic ,Bein Sport 4 SD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/53.ts
-#EXTINF:-1 group-title=Arabic ,Bein Sport 5 SD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/54.ts
-#EXTINF:-1 group-title=Arabic ,Bein Sport 6 SD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/55.ts
-#EXTINF:-1 group-title=Arabic ,Bein Sport 7 SD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/56.ts
-#EXTINF:-1 group-title=Arabic ,Bein Sport 8 SD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/57.ts
-#EXTINF:-1 group-title=Arabic ,Bein Sport 9 SD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/58.ts
-#EXTINF:-1 group-title=Arabic ,Bein Sport 10 SD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/59.ts
-#EXTINF:-1 group-title=Arabic ,beinHD Sports HD1
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1.ts
-#EXTINF:-1 group-title=Arabic ,beinHD Sports HD2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/2.ts
-#EXTINF:-1 group-title=Arabic ,beinHD Sports HD3
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/3.ts
-#EXTINF:-1 group-title=Arabic ,beinHD Sports HD4
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/4.ts
-#EXTINF:-1 group-title=Arabic ,beinHD Sports HD5
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/5.ts
-#EXTINF:-1 group-title=Arabic ,beinHD Sports HD6
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/6.ts
-#EXTINF:-1 group-title=Arabic ,beinHD Sports HD7
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/7.ts
-#EXTINF:-1 group-title=Arabic ,beinHD Sports HD8
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/8.ts
-#EXTINF:-1 group-title=Arabic ,beinHD Sports HD9
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/9.ts
-#EXTINF:-1 group-title=Arabic ,beinHD Sports HD10
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/10.ts
-#EXTINF:-1 group-title=Arabic ,Bt Sport 1
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1795.ts
-#EXTINF:-1 group-title=Arabic ,Bt Sport 2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1796.ts
+
+
+#EXTM3U
 #EXTINF:-1 group-title=Arabic ,BeinHD Movies1
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/20.ts
+http://free.iptv.re:80/live/33133296/714499/11.ts
 #EXTINF:-1 group-title=Arabic ,BeinHD Movies2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/21.ts
-#EXTINF:-1 group-title=Arabic ,OMN Yahala HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1778.ts
-#EXTINF:-1 group-title=Arabic ,OMN Movies Premiere
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1777.ts
-#EXTINF:-1 group-title=Arabic ,OMN MOVIES PREMIERE 2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1782.ts
-#EXTINF:-1 group-title=Arabic ,OMN Movies
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1774.ts
-#EXTINF:-1 group-title=Arabic ,OMN MOVIES  2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1784.ts
-#EXTINF:-1 group-title=Arabic ,OMN Movies Action
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1776.ts
-#EXTINF:-1 group-title=Arabic ,OMN MOVIES Comedy HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1783.ts
-#EXTINF:-1 group-title=Arabic ,OMN First Comedy
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1779.ts
-#EXTINF:-1 group-title=Arabic ,OMN Cinema 1
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1780.ts
-#EXTINF:-1 group-title=Arabic ,OMN CINEMA 2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1781.ts
-#EXTINF:-1 group-title=Arabic ,OSN Yahala HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/528.ts
-#EXTINF:-1 group-title=Arabic ,OSN Yahala Drama HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/529.ts
-#EXTINF:-1 group-title=Arabic ,OSN Al youm
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/550.ts
-#EXTINF:-1 group-title=Arabic ,OSN Cinema 1
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/516.ts
-#EXTINF:-1 group-title=Arabic ,OSN Cinema 2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/517.ts
-#EXTINF:-1 group-title=Arabic ,Star7arab Films 1
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1775.ts
-#EXTINF:-1 group-title=Arabic ,ART CINEMA
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/652.ts
-#EXTINF:-1 group-title=Arabic ,ART Aflam 1
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/650.ts
-#EXTINF:-1 group-title=Arabic ,ART Aflam 2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/651.ts
-#EXTINF:-1 group-title=Arabic ,OSN Movies HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/505.ts
-#EXTINF:-1 group-title=Arabic ,OSN Movies Premiere HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/509.ts
-#EXTINF:-1 group-title=Arabic ,OSN Movies Action HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/507.ts
-#EXTINF:-1 group-title=Arabic ,OSN Movies Action 2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/521.ts
-#EXTINF:-1 group-title=Arabic ,OSN Movies COMEDY
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/512.ts
-#EXTINF:-1 group-title=Arabic ,OSN MBC Drama HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/506.ts
-#EXTINF:-1 group-title="French" ,TF1 HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/703.ts
-#EXTINF:-1 group-title="French" ,FRANCE 2 HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/718.ts
-#EXTINF:-1 group-title="French" ,FRANCE 3 HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/717.ts
-#EXTINF:-1 group-title="French" ,FRANCE 4 HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/716.ts
-#EXTINF:-1 group-title="French" ,FRANCE 5 HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/715.ts
-#EXTINF:-1 group-title="French" ,M6 HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/711.ts
-#EXTINF:-1 group-title="French" ,W9 HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/700.ts
-#EXTINF:-1 group-title="French" ,ACTION HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/747.ts
-#EXTINF:-1 group-title="French" ,GULLI HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/713.ts
-#EXTINF:-1 group-title="French" ,Mangas
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/819.ts
-#EXTINF:-1 group-title="French" ,BOOMERANG HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/788.ts
-#EXTINF:-1 group-title="French" ,CINE PREMIER HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/731.ts
-#EXTINF:-1 group-title="French" ,CINE FRISSON HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/732.ts
-#EXTINF:-1 group-title="French" ,CINE CLASSIC HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/730.ts
-#EXTINF:-1 group-title="French" ,Canal  HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/743.ts
-#EXTINF:-1 group-title="French",Canal  Series HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/740.ts
-#EXTINF:-1 group-title="French" ,Canal  Family HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/741.ts
-#EXTINF:-1 group-title="French" ,Canal  Cinema HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/742.ts
-#EXTINF:-1 group-title="French" ,Canal  Sport HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/739.ts
-#EXTINF:-1 group-title="French" ,beinHD Sport 1 FR
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/17.ts
-#EXTINF:-1 group-title="French" ,beinHD Sport 2 FR
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/18.ts
-#EXTINF:-1 group-title="French" ,beinHD Sport 3 FR
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/19.ts
-#EXTINF:-1 group-title="Spanish" ,ARTE HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/745.ts
-#EXTINF:-1 group-title=Spanish,animaux HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/746.ts
-#EXTINF:-1 group-title="English" ,Ushuaia HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/749.ts
-#EXTINF:-1 group-title="English" ,Animal Planet UK
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1800.ts
-#EXTINF:-1 group-title="English" ,Sky Movies Family UK
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1799.ts
-#EXTINF:-1 group-title="English" ,Sky Movies Premiere UK
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1798.ts
-#EXTINF:-1 group-title="Spanish" ,Nat Geo Wild Es
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1789.ts
-#EXTINF:-1 group-title="Spanish" ,TNT HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1788.ts
-#EXTINF:-1 group-title="Spanish" ,Disney channel es
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1793.ts
-#EXTINF:-1 group-title="Spanish" ,Canal+Series
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1786.ts
-#EXTINF:-1 group-title="Spanish" ,Canal+Liga
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1785.ts
-#EXTINF:-1 group-title="Spanish" ,telecinco
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1767.ts
-#EXTINF:-1 group-title="Spanish" ,LaSextaHD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1768.ts
-#EXTINF:-1 group-title="Spanish" ,FOXLIVE
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1771.ts
-#EXTINF:-1 group-title="Spanish" ,CuatroHD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1769.ts
-#EXTINF:-1 group-title="Spanish" ,CANAL es
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1773.ts
-#EXTINF:-1 group-title="Spanish" ,C DCINE
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1765.ts
-#EXTINF:-1 group-title="Spanish" ,C COMEDIA
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1766.ts
-#EXTINF:-1 group-title="Spanish" ,C ACCION
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1770.ts
-#EXTINF:-1 group-title="Spanish" ,AXNSpanish
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1772.ts
-#EXTINF:-1 group-title="Italian" ,Rai 1 HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1233.ts
-#EXTINF:-1 group-title="Italian" ,Rai 2 HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1234.ts
-#EXTINF:-1 group-title="Italian" ,Rai 3 HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1235.ts
-#EXTINF:-1 group-title="Italian" ,SKY CINEMA IT HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1229.ts
-#EXTINF:-1 group-title="Italian" ,Sky Cinema Cult IT HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1228.ts
-#EXTINF:-1 group-title="Italian" ,Cinema Family IT HD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1231.ts
-#EXTINF:-1 group-title=Arabic ,Samira TV
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/102.ts
-#EXTINF:-1 group-title=Arabic ,Rotana Masriya
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1103.ts
-#EXTINF:-1 group-title=Arabic ,Algeria 3
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/101.ts
-#EXTINF:-1 group-title=Arabic ,Hannibal TV
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/151.ts
-#EXTINF:-1 group-title=Arabic ,Panorama Film
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/328.ts
-#EXTINF:-1 group-title=Arabic ,Panorama Drama
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/316.ts
-#EXTINF:-1 group-title=Arabic ,Panorama Comedy
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/327.ts
-#EXTINF:-1 group-title=Arabic ,Nessma TV
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/103.ts
-#EXTINF:-1 group-title=Arabic ,Al Hayat 2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1162.ts
-#EXTINF:-1 group-title=Arabic ,Al Hayat
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1161.ts
-#EXTINF:-1 group-title=Arabic ,2M_Maroc
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/170.ts
-#EXTINF:-1 group-title=Arabic ,Nat Geo AD
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/100.ts
-#EXTINF:-1 group-title=Arabic ,Al Jazeera Doc
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/105.ts
-#EXTINF:-1 group-title=Arabic ,MBC MAX
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/304.ts
-#EXTINF:-1 group-title=Arabic ,MBC Action
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/306.ts
-#EXTINF:-1 group-title=Arabic ,MBC 4
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/303.ts
-#EXTINF:-1 group-title=Arabic ,MBC 3
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/302.ts
-#EXTINF:-1 group-title=Arabic ,MBC 2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/301.ts
-#EXTINF:-1 group-title=Arabic ,MBC 1
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/300.ts
-#EXTINF:-1 group-title=Arabic ,MBC Bollywood
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/307.ts
-#EXTINF:-1 group-title=Arabic ,MBC  Drama
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/308.ts
-#EXTINF:-1 group-title=Arabic ,Medi1 TV
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1802.ts
-#EXTINF:-1 group-title=Arabic ,KBC_ALGERIA
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/121.ts
-#EXTINF:-1 group-title=Arabic ,Fatafeat TV
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1034.ts
-#EXTINF:-1 group-title=Arabic ,EL WatanDZ
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/108.ts
-#EXTINF:-1 group-title=Arabic ,ART Hekayat 1
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/653.ts
-#EXTINF:-1 group-title=Arabic ,ART Hekayat 2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/654.ts
-#EXTINF:-1 group-title=Arabic ,MBC Pro Sport 1
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1217.ts
-#EXTINF:-1 group-title=Arabic ,MBC Pro Sport 2
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1218.ts
-#EXTINF:-1 group-title=Arabic ,MBC Pro Sport 3
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1219.ts
-#EXTINF:-1 group-title=Arabic ,MBC Pro Sport 4
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1220.ts
-#EXTINF:-1 group-title=Arabic ,EL Djazairia
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/106.ts
-#EXTINF:-1 group-title=Arabic ,Echorouk TV
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/104.ts
-#EXTINF:-1 group-title=Arabic ,Dzair TV
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/107.ts
-#EXTINF:-1 group-title=Arabic ,TN Tunisia
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/309.ts
-#EXTINF:-1 group-title=Arabic ,CBC Extra
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/325.ts
-#EXTINF:-1 group-title=Arabic ,CBC
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/324.ts
-#EXTINF:-1 group-title=Arabic ,Al Maghribia Ikhbaria
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/173.ts
-#EXTINF:-1 group-title=Arabic tvg-logo="0425.png",Al Jazeera
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1071.ts
-#EXTINF:-1 group-title=Arabic ,El Hiwar Ettounsi
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1141.ts
-#EXTINF:-1 group-title=Arabic ,Toyor Al Janah
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1044.ts
-#EXTINF:-1 group-title=Arabic ,Syria TV
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1027.ts
-#EXTINF:-1 group-title=Arabic ,Karameesh
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1048.ts
-#EXTINF:-1 group-title=Arabic ,Baraem
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1046.ts
-#EXTINF:-1 group-title=Arabic ,Al Resala
-http://iptv.star7arab.com:80/live/mhd/mhd-wu/1063.ts
+http://free.iptv.re:80/live/33133296/714499/12.ts
+#EXTINF:-1 group-title=Arabic ,beinHD Sports HD1
+http://free.iptv.re:80/live/33133296/714499/1.ts
+#EXTINF:-1 group-title=Arabic ,beinHD Sports HD2
+http://free.iptv.re:80/live/33133296/714499/2.ts
+#EXTINF:-1 group-title=Arabic ,beinHD Sports HD3
+http://free.iptv.re:80/live/33133296/714499/3.ts
+#EXTINF:-1 group-title=Arabic ,beinHD Sports HD4
+http://free.iptv.re:80/live/33133296/714499/4.ts
+#EXTINF:-1 group-title=Arabic ,beinHD Sports HD5
+http://free.iptv.re:80/live/33133296/714499/5.ts
+#EXTINF:-1 group-title=Arabic ,beinHD Sports HD6
+http://free.iptv.re:80/live/33133296/714499/6.ts
+#EXTINF:-1 group-title=Arabic ,beinHD Sports HD7
+http://free.iptv.re:80/live/33133296/714499/7.ts
+#EXTINF:-1 group-title=Arabic ,beinHD Sports HD8
+http://free.iptv.re:80/live/33133296/714499/8.ts
+#EXTINF:-1 group-title=Arabic ,beinHD Sports HD9
+http://free.iptv.re:80/live/33133296/714499/9.ts
+#EXTINF:-1 group-title=Arabic ,beinHD Sports HD10
+http://free.iptv.re:80/live/33133296/714499/10.ts
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Al yawm
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+
+#EXTINF:-1,Alarabiya
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,Al hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,Albaghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+
+#EXTINF:-1,Albaghdadia 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+
+#EXTINF:-1,Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:-1,Aljazeera AR
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+
+#EXTINF:-1,Alrayi
+rtmp://stream02.fasttelco.net:1935/live/_definst_ playpath=alrai.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.alrai.tv/LiveBroadcast.aspx?lang=ar
+
+#EXTINF:-1,ANN News
+rtmp://ns8.indexforce.com/ann playpath=ann swfUrl=http://www.anntv.tv/new/player.swf pageUrl=http://www.anntv.tv/new/webcast.aspx
+
+#EXTINF:-1,Al-hurra Iraq 
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+
+#EXTINF:-1,AL SHARJAH
+rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+
+#EXTINF:-1,AL Sharqiya
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+
+#EXTINF:-1,AGHANI Tv
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+
+#EXTINF:-1,Al Jazeera Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
+
+#EXTINF:-1,Bein 1 AR
+rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 2 AR
+rtmp://www1.iguide.to/iguide playpath=ix87jz08b1l9wjl swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 3 AR
+rtmp://www1.iguide.to/iguide playpath=zqd4jye2ubzsk8g swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 4 AR
+rtmp://www1.iguide.to/iguide playpath=6kvth9vfk31w5hq swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 5 AR
+rtmp://www1.iguide.to/iguide playpath=uzd0xctulomtekn swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 6 AR
+rtmp://www1.iguide.to/iguide playpath=a66ht7p4opy1s5r swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 7 AR
+rtmp://www1.iguide.to/iguide playpath=ilirzmz6u21561n swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 8 AR
+rtmp://www1.iguide.to/iguide playpath=heh8qiagrxkwcm3 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 11 AR
+rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31507&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 12 AR
+rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+
+#EXTINF:-1, BAHRAIN SPORTS
+rtmp://alayam.netromedia.net/btv3/btv3
+
+
+#EXTINF:-1,بي بي سي عربي bbc arabic bbc
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:-1,BAHRIN
+rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=4d0292f1-e996-4dff-bdcd-01bf49aea468&iframe=true&autoPlay=true&scaling=scale
+
+
+#EXTINF:-1,CBC DRAMA
+http://185.5.222.231:4242/bysid/5107
+
+#EXTINF:-1,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Noor Dubai TV
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Sama
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Racing
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:-1,DW Arabia (Germany)
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+
+#EXTINF:-1,Echorouk Tv (الشروق
+http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
+
+#EXTINF:-1,Iqraatv
+http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
+
+#EXTINF:-1,Iraqiya
+http://212.7.205.5:1935/Iraqia/live/playlist.m3u8
+
+
+#EXTINF:-1,i24 News Arabia
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:-1,Iqraatv
+http://fl1.viastreaming.net:1935/iqraatv/livestream/BratuMarian.m3u8
+
+#EXTINF:-1,Jordan
+rtmp://64.251.14.168/jorlive/jrtv
+
+
+#EXTINF:-1,KAS
+http://137.135.64.32:1935/kas/kas/gmswf.m3u8
+
+#EXTINF:-1,KTV 2
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
+
+#EXTINF:-1,Kuwait Tv 
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
+
+#EXTINF:-1,Kuwait Tv 2
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
+
+
+#EXTINF:-1,MBC 2 SD
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+
+
+#EXTINF:-1,Mbc4 SD
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+
+#EXTINF:-1,MBC MAX
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+
+#EXTINF:-1,MBC Action SD
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+
+#EXTINF:-1,MBC Bollywood
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+#EXTINF:-1,Maannews
+http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
+
+#EXTINF:-1,Al Madineh
+http://46.245.160.224/medine/medine/gmswf.m3u8
+
+#EXTINF:-1,Mekkeh
+http://46.245.160.224/mekke/mekke/gmswf.m3u8
+
+#EXTINF:-1,Nabaa
+rtmp://31.14.40.238:1935/live/Nabaa
+
+#EXTINF:-1,Quran tv
+http://46.245.160.224/mekke/mekke/gmswf.m3u8
+
+#EXTINF:-1,Quran Radio Qatar
+rtmp://AgendaStreamer1.qna.org.qa/qrn//qrn
+
+#EXTINF:-1,Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
+
+#EXTINF:-1,Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
+
+#EXTINF:-1,Syria Nour
+http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
+
+#EXTINF:-1,Sama Syria 
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
+#EXTINF:-1,Syria news 
+http://82.137.248.16:1935/Snews/SnewsLive1/gmswf.m3u8
+
+
+#EXTINF:-1,Sky news arabia
+http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
+
+#EXTINF:-1,Talaqie
+rtmp://82.137.248.20/Talaqie/TalaqieLive2
+
+#EXTINF:-1 , TRT Arabic |
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title=Arabic ,Alarabiya
@@ -308,7 +261,7 @@ rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
 
-#EXTINF:-1 group-title=Arabic ,بي بي سي عربي bbc arabic bbc
+#EXTINF:-1 group-title=Arabic ,BBC arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1 group-title=Arabic ,BAHRIN
