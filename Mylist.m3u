@@ -1,31 +1,32 @@
 
 
 #EXTM3U
+#EXTINF:-1group-title=Arabic ,Quran TV
+http://free.iptv.re:80/live/12164537/506385/16.ts
 #EXTINF:-1 group-title=Arabic ,BeinHD Movies1
-http://free.iptv.re:80/live/50906187/446916/11.ts
+http://free.iptv.re:80/live/12164537/506385/11.ts
 #EXTINF:-1 group-title=Arabic ,BeinHD Movies2
-http://free.iptv.re:80/live/50906187/446916/12.ts
+http://free.iptv.re:80/live/12164537/506385/12.ts
 #EXTINF:-1 group-title=Arabic ,beinHD Sports HD1
-http://free.iptv.re:80/live/50906187/446916/1.ts
+http://free.iptv.re:80/live/12164537/506385/1.ts
 #EXTINF:-1 group-title=Arabic ,beinHD Sports HD2
-http://free.iptv.re:80/live/50906187/446916/2.ts
+http://free.iptv.re:80/live/12164537/506385/2.ts
 #EXTINF:-1 group-title=Arabic ,beinHD Sports HD3
-http://free.iptv.re:80/live/50906187/446916/3.ts
+http://free.iptv.re:80/live/12164537/506385/3.ts
 #EXTINF:-1 group-title=Arabic ,beinHD Sports HD4
-http://free.iptv.re:80/live/50906187/446916/4.ts
+http://free.iptv.re:80/live/12164537/506385/4.ts
 #EXTINF:-1 group-title=Arabic ,beinHD Sports HD5
-http://free.iptv.re:80/live/50906187/446916/5.ts
+http://free.iptv.re:80/live/12164537/506385/5.ts
 #EXTINF:-1 group-title=Arabic ,beinHD Sports HD6
-http://free.iptv.re:80/live/50906187/446916/6.ts
+http://free.iptv.re:80/live/12164537/506385/6.ts
 #EXTINF:-1 group-title=Arabic ,beinHD Sports HD7
-http://free.iptv.re:80/live/50906187/446916/7.ts
+http://free.iptv.re:80/live/12164537/506385/7.ts
 #EXTINF:-1 group-title=Arabic ,beinHD Sports HD8
-http://free.iptv.re:80/live/50906187/446916/8.ts
+http://free.iptv.re:80/live/12164537/506385/8.ts
 #EXTINF:-1 group-title=Arabic ,beinHD Sports HD9
-http://free.iptv.re:80/live/50906187/446916/9.ts
+http://free.iptv.re:80/live/12164537/506385/9.ts
 #EXTINF:-1 group-title=Arabic ,beinHD Sports HD10
-http://free.iptv.re:80/live/50906187/446916/10.ts
-
+http://free.iptv.re:80/live/12164537/506385/10.ts
 
 
 
