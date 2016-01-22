@@ -3,7 +3,7 @@
 
 
 #EXTINF:1 group-title=Arabic,Halab Today TV
-http://watchfomny.tv/Video/Syria/halab-today-tv/halab-today-tv.htm
+https://d1vp67uoekhr1v.cloudfront.net/res/gz/js/arlive0411151040.js
 
 #EXTINF:-1 group-title=Arabic,LBC Europe (Lebanon)
 rtmp://livestreaming.itworkscdn.net/lbclive/lbc_1 playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf live=1 pageUrl=http://www.lbcgroup.tv/watch-lbci-live
