@@ -2,7 +2,8 @@
 #EXTM3U
 
 
-
+#EXTINF:1 group-title=Arabic,Halab Today TV
+rtmp://$OPT:rtmp-raw=rtmp://streaming.tootvs.com/8010/8010
 
 #EXTINF:-1 group-title=Arabic,LBC Europe (Lebanon)
 rtmp://livestreaming.itworkscdn.net/lbclive/lbc_1 playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf live=1 pageUrl=http://www.lbcgroup.tv/watch-lbci-live
